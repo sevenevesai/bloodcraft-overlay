@@ -5,14 +5,6 @@
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
-
-## Demo
-
-<iframe width="600" height="338" 
-  src="https://www.youtube.com/embed/YOUR_VIDEO_ID?rel=0" 
-  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
-</iframe>
-
 ## Features
 
 * **Sidebar icons** for quick access to command categories
