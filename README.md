@@ -6,7 +6,10 @@
 
 ---
 ### Quick Demo
-https://github.com/user-attachments/assets/21b96821-2caa-41af-9c12-21599b66ea82
+https://github.com/user-attachments/assets/5e81836c-55b3-4074-91b3-e180d3a3088f
+
+
+[Quick Demo - Large Canvas](https://github.com/user-attachments/assets/21b96821-2caa-41af-9c12-21599b66ea82)
 ---
 ## Features
 
