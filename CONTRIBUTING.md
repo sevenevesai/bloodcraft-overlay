@@ -1,7 +1,8 @@
-### Contributing
+## Contributing
+
 Contributions are welcome! Please:
 
-Fork the repo
-- Create a feature branch (git checkout -b feature/YourFeature)
-- Commit your changes (git commit -m "Add feature")
-- Open a Pull Request
+1. Fork the repo
+2. Create a feature branch (`git checkout -b feature/YourFeature`)
+3. Commit your changes (`git commit -m "Add feature"`)
+4. Open a Pull Request
