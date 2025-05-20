@@ -2,6 +2,8 @@
 
 **A lightweight PyQt5 overlay to send chat commands directly into V-Rising with a customizable sidebar and prompt UI.**
 
+Can be moved anywhere on your desktop, *in or out of the game window.*
+
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
 ---
