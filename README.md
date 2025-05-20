@@ -6,9 +6,7 @@
 
 ---
 ### Quick Demo
-https://github.com/user-attachments/assets/85007702-9de4-415a-a2b3-641249a06e0d
-
-
+https://github.com/user-attachments/assets/5ae4eac4-9590-4b8f-a1c6-4a246fb76db2
 ---
 ## Features
 
