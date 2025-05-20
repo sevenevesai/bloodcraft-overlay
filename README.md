@@ -8,11 +8,10 @@
 
 ## Demo
 
-<video width="600" controls>
-  <source src="https://cdn.jsdelivr.net/gh/sevenevesai/bloodcraft-overlay@main/imgs/quickdemo.mp4" type="video/mp4">
-  Your browser does not support HTML5 video.
-</video>
-
+<iframe width="600" height="338" 
+  src="https://www.youtube.com/embed/YOUR_VIDEO_ID?rel=0" 
+  frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>
+</iframe>
 
 ## Features
 
