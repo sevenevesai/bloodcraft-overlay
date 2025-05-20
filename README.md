@@ -9,7 +9,7 @@
 ## Demo
 
 <video width="600" controls>
-  <source src="https://raw.githubusercontent.com/sevenevesai/bloodcraft-overlay/main/imgs/quickdemo.mp4" type="video/mp4">
+  <source src="https://cdn.jsdelivr.net/gh/sevenevesai/bloodcraft-overlay@main/imgs/quickdemo.mp4" type="video/mp4">
   Your browser does not support HTML5 video.
 </video>
 
