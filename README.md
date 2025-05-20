@@ -50,7 +50,7 @@ python main.py
 ## Project Structure
 
 ```
-cmd-overlay/
+bloodcraft-overlay/
 ├─ imgs/          # icon assets
 ├─ commands.py    # command definitions
 ├─ main.py        # application entry point
