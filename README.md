@@ -6,8 +6,7 @@
 
 ---
 
-![Overlay in action](assets/quickdemo.mp4)
-
+![Overlay in action](imgs/quickdemo.mp4)
 ## Features
 
 * **Sidebar icons** for quick access to command categories
