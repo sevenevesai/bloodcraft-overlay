@@ -6,7 +6,11 @@
 
 ---
 
-![Overlay in action](imgs/quickdemo.mp4)
+<video width="600" controls>
+  <source src="imgs/quickdemo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Features
 
 * **Sidebar icons** for quick access to command categories
