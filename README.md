@@ -1,3 +1,7 @@
+## Archived ⚠
+This Python-based overlay has been replaced by an [Overlay for C#](https://github.com/sevenevesai/VRising-Command-Overlay/releases/tag/v1.0.0).
+
+
 # Bloodcraft Overlay
 
 **A lightweight PyQt5 overlay to send chat commands directly into V-Rising with a customizable sidebar and prompt UI.**
