@@ -1,5 +1,5 @@
 ## Archived ⚠
-This Python-based overlay has been replaced by an [Overlay for C#](https://github.com/sevenevesai/VRising-Command-Overlay/releases/tag/v1.0.0).
+This Python-based overlay has been replaced by an [Overlay for C#](https://github.com/sevenevesai/VRising-Command-Overlay/releases).
 
 
 # Bloodcraft Overlay
